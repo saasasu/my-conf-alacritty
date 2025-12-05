@@ -4,14 +4,15 @@
 [colors.primary]
 # background = '0x0a0c10'
 background = '0x000000'
-foreground = '0xf0f3f6'
+# foreground = '0xf0f3f6'
+foreground = '0xf1f1f1'
 
 # Cursor colors
 #
 # These will only be used when the `custom_cursor_colors` field is set to `true`.
 [colors.cursor]
-text = '0x0a0c10'
-cursor = '0xf0f3f6'
+text = '0x303030'
+cursor = '0xf1f1f1'
 
 # Normal colors
 [colors.normal]
